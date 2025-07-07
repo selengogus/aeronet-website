@@ -1,7 +1,7 @@
 # aeronet-website
 Company website design for Aeronet
 
-## site önizleme
+## Site Preview
 
 ![site önizleme](/screenshots/1.png)
 ![site önizleme](/screenshots/2.png)
